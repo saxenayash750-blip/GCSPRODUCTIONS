@@ -1,0 +1,125 @@
+{
+  "defaults": {
+    "formatDeliverable": "4K UHD + Print Ready",
+    "cloudArchive": "1 Year Cloud Vault"
+  },
+  "services": {
+    "ai-editing": {
+      "startingPrice": 7999,
+      "turnaroundTimeline": "2 to 5 Days",
+      "priceNote": "(Example Placeholder — Creative custom workflows)",
+      "included": [
+        "Neural upscaling to 8K resolution with realistic texture synthesis",
+        "Generative backdrop extension and environment synthesis",
+        "AI lighting relight (reorient key and rim lights in post)",
+        "Deep learning voice isolation and wind noise removal for video",
+        "Facial expression correction (eyes closed, head turn fixes)",
+        "Concept art moodboarding for high-budget productions"
+      ]
+    },
+    "event-photography": {
+      "startingPrice": 19999,
+      "turnaroundTimeline": "5 to 7 Days",
+      "priceNote": "(Example Placeholder — Day rates available)",
+      "included": [
+        "Multi-camera coverage with prime telephoto lenses",
+        "Low-light stage and auditorium specialty gear",
+        "Rapid same-day turnaround of social media highlights",
+        "Full speech and keynote audio recording with lavalier mics",
+        "High-res photo gallery with attendee face-recognition compatibility",
+        "3-minute highlight film + 1-minute high-energy montage"
+      ]
+    },
+    "music-videos-filmmaking": {
+      "startingPrice": 55000,
+      "turnaroundTimeline": "15 to 25 Days",
+      "priceNote": "(Example Placeholder — Dependent on cast, crew, and VFX)",
+      "included": [
+        "Pre-production concept development, screenplay, and shot list",
+        "Cinema rig filming in 4K RAW/ProRes (Sony FX6 / RED Komodo)",
+        "Professional gaffer team with ARRI / Aputure cinema lighting",
+        "Full audio capture with boom mics and foley design",
+        "DaVinci Resolve studio color grading (Film Print Emulation)",
+        "Final master deliverable in 4K UHD, ProRes 422 HQ, and vertical reels"
+      ]
+    },
+    "model-fashion": {
+      "startingPrice": 11999,
+      "turnaroundTimeline": "7 Days",
+      "priceNote": "(Example Placeholder — Hair & Makeup packages available)",
+      "included": [
+        "Professional studio strobe lighting setup (Elinchrom / Profoto)",
+        "Directing poses, body angles, and expressive character acting",
+        "Multiple background sets (seamless paper, canvas, industrial)",
+        "High-end magazine frequency-separation skin retouching",
+        "High-resolution digital delivery for agency submissions & comp cards",
+        "Commercial usage rights for online and print lookbooks"
+      ]
+    },
+    "photo-editing": {
+      "startingPrice": 2999,
+      "turnaroundTimeline": "2 to 4 Days",
+      "priceNote": "(Example Placeholder — Per image or batch bulk rates)",
+      "included": [
+        "Advanced frequency separation and micro-dodge & burn",
+        "Stray hair removal, garment wrinkle smoothing, and blemishes cleanup",
+        "Color harmonization, skin-tone matching, and tone curve styling",
+        "Sky replacement and object removal with realistic shadows",
+        "Bulk Lightroom editing for full wedding catalogs (1000+ photos)",
+        "Fast 48-hour delivery for urgent editorial deadlines"
+      ]
+    },
+    "pre-wedding": {
+      "startingPrice": 29999,
+      "turnaroundTimeline": "10 to 14 Days",
+      "priceNote": "(Example Placeholder — Travel costs billed actuals)",
+      "included": [
+        "Creative concept scripting and styling advice",
+        "Up to 3 location changes and 4 outfit transitions",
+        "Drone aerial cinematography in permitted zones",
+        "30+ signature retouched high-res couple portraits",
+        "2-3 minute cinematic trailer with customized licensed audio",
+        "60-second teaser reel tailored for Instagram & WhatsApp saves"
+      ]
+    },
+    "product-photography": {
+      "startingPrice": 11999,
+      "turnaroundTimeline": "5 to 7 Days",
+      "priceNote": "(Example Placeholder — Per-SKU tier discounts apply)",
+      "included": [
+        "Crisp pure white 255-RGB background catalog shots",
+        "Stylized editorial lifestyle flat-lays and textured props",
+        "Specialized diffusion lighting for reflective jewellery & glass",
+        "Macro close-up detailing for textures, seams, and brand marks",
+        "Color-accurate calibrated ICC profiles for web & print",
+        "Batch product sizing ready for immediate e-commerce upload"
+      ]
+    },
+    "video-editing": {
+      "startingPrice": 6000,
+      "turnaroundTimeline": "3 to 7 Days",
+      "priceNote": "(Example Placeholder — Tiered per minute of final cut)",
+      "included": [
+        "Narrative storyline assembly with emotional pacing",
+        "Multi-cam synchronization and dialogue audio leveling",
+        "Hollywood sound design, foley swooshes, and licensed cinematic music",
+        "DaVinci Resolve color grading (Teal & Orange, Film Stocks, Moody)",
+        "Custom motion graphics, lower thirds, and titles",
+        "Vertical 9:16 reels + 16:9 widescreen masters with captions"
+      ]
+    },
+    "wedding-photography": {
+      "startingPrice": 45000,
+      "turnaroundTimeline": "21 to 30 Days",
+      "priceNote": "(Example Placeholder — Custom quotes available)",
+      "included": [
+        "Pre-event conceptual moodboard and planning consultation",
+        "Dual senior photographer team with Sony FX/Alpha cinema bodies",
+        "Full coverage of Haldi, Mehendi, Sangeet & Reception",
+        "Candid photojournalism + Royal bridal & couple portraits",
+        "Private online gallery with print-ready 4K high-resolution downloads",
+        "Signature handcrafted leather-bound keepsake album option"
+      ]
+    }
+  }
+}
